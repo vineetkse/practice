@@ -46,7 +46,7 @@ c.forEach((data) => {
 });
 
 if (c.length > 8) {
-  console.log("lenght is greater than 8");
+  console.log("lenght is greater than 9");
 } else if (c.length < 3) {
   console.log("lenght is less than 3");
 } else {
